@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Ultimate Landing Page
+Plugin Name: Ultimate Landing Page and Coming Soon Page
 Plugin URI: http://www.thinklandingpages.com
 Description: Create a landing page, coming soon page, or maintenance page and collect emails.
 Version: 1.0
