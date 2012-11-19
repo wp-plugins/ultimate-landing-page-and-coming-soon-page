@@ -3,7 +3,7 @@
 Plugin Name: Ultimate Landing Page and Coming Soon Page
 Plugin URI: http://www.thinklandingpages.com
 Description: Create a landing page, coming soon page, or maintenance page and collect emails.
-Version: 1.0
+Version: 1.1
 Author: Jeff Bullins
 Author URI: http://www.thinklandingpages.com
 */
@@ -103,7 +103,15 @@ function ulp_add_defaults() {
 	$tmp = get_option('ulp_options');
     if(($tmp['chk_default_options_db']=='1')||(!is_array($tmp))) {
 		delete_option('ulp_options'); // so we don't have to reset all the 'off' checkboxes too! (don't think this is needed but leave for now)
-		$arr = array(	"info_background_color" => "#",
+		$arr = array(	
+						"title" => "This is the title of your page",
+						"logo" => "",
+						"background-image" => "",
+						"headline" => "This is a sample headline",
+						"description" => "<center>This is the description.  Put whatever you want here.</center>",
+						"feedburner_address" => "",
+						"drp_select_box" => "feedburner",
+						"info_background_color" => "#",
 						"my_background_color" => "#ffffff",
 						"url-slug" => "landing-page",
 						"headline_font_color" => "#000000",
@@ -135,7 +143,7 @@ function ulp_init(){
 
 // Add menu page
 function ulp_add_options_page() {
-	add_options_page('Ultimate Landing Page Options', 'Ultimate Landing Page', 'manage_options', __FILE__, 'ulp_render_form');
+	add_options_page('Ultimate Landing Page Options', 'Ultimate Landing Page', 'manage_options', 'ultimate-landing-page', 'ulp_render_form');
 }
 
 // ------------------------------------------------------------------------------
@@ -432,7 +440,7 @@ function ulp_validate_options($input) {
 function ulp_plugin_action_links( $links, $file ) {
 
 	if ( $file == plugin_basename( __FILE__ ) ) {
-		$ulp_links = '<a href="'.get_admin_url().'options-general.php?page=ultimate-landing-page/ultimate-landing-page.php">'.__('Settings').'</a>';
+		$ulp_links = '<a href="'.get_admin_url().'options-general.php?page=ultimate-landing-page.php">'.__('Settings').'</a>';
 		// make the 'Settings' link appear first
 		array_unshift( $links, $ulp_links );
 	}
