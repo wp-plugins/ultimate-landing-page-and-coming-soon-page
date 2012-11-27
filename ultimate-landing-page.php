@@ -3,7 +3,7 @@
 Plugin Name: Ultimate Landing Page and Coming Soon Page
 Plugin URI: http://www.thinklandingpages.com
 Description: Create a landing page, coming soon page, or maintenance page and collect emails.
-Version: 1.1
+Version: 1.1.1
 Author: Jeff Bullins
 Author URI: http://www.thinklandingpages.com
 */
@@ -399,7 +399,7 @@ function ulp_render_form() {
 							<option disabled='disabled' value='mailchimp' <?php selected('mailchimp', $options['drp_select_box']); ?>>Mailchimp</option>
 							
 						</select>
-						<span style="color:#666666;margin-left:2px;">Aweber, MailChimp, and other email list management software are supported in Ultimate Landing Page Pro</span></br>
+						<span style="color:#666666;margin-left:2px;">Aweber, MailChimp, and other email list management software are supported in Ultimate Landing Page Advanced</span></br>
 						<span style="color:#666666;margin-left:2px;"><a href="http://www.thinklandingpages.com">Upgrade Now</a></span>
 					</td>
 				</tr>
