@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
-Tags: landing page, coming soon page, maintenance page, email list, squeeze page, list building, 
+Tags: landing page, coming soon page, maintenance page, email list, squeeze page, list building, video landing page, contest landing page, email optin landing page, landing page design, landing page templates, free landing page templates
 Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: 1.1.2
@@ -14,7 +14,7 @@ Create a landing page or coming soon page and collect emails.
 
 Create a landing page or coming soon page in as little as 5 minutes without any programming or design skills.
 
-*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com)
+*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
 
 ###What you get when you use the Ultimate Landing Page plugin
 
@@ -28,7 +28,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Collect emails in Feedburner so you can stay in contact with your prospects
 
 
-###Additional Features Ultimate Landing Page Pro will contain
+###Additional Features Ultimate Landing Page Advanced contains
 
 *  Collect emails with Aweber, Mailchimp, and other email list management software
 *  Multiple templates to choose from to give you more layout options
@@ -36,7 +36,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  A maintenance mode so you can notify your users while you service your site
 *  And more...
 
-*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com)
+*  [Upgrade to the Free Advanced Version!](http://www.thinklandingpages.com/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
 
 == Installation ==
 
@@ -75,4 +75,7 @@ Yes, this is a plugin and will work with your existing theme.
 
 = 1.1.2 =
 * Fixed regular expression for preg_match on url
+
+= 1.1.3 =
+* Removed unnecessary script tags from template1
 

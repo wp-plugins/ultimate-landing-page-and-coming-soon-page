@@ -124,9 +124,6 @@ z-index:-1
 	</table>
 </table>
 
-
-	<script src="<?php echo includes_url(); ?>js/jquery/jquery.js"></script>
-	<script src="<?php echo plugins_url('template/template1Script.js',dirname(__FILE__)); ?>"></script>
   
 </body>
 </html>
