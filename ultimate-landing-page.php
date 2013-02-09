@@ -168,7 +168,7 @@ function ulp_render_form() {
 	<div id="poststuff" class="metabox-holder has-right-sidebar">
 		<div id="side-info-column" class="inner-sidebar">
 			<div id="side-sortables" class="meta-box-sortables ui-sortable">
-				<a target="_blank" href="http://www.thinklandingpages.com">
+				<a target="_blank" href="www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/">
 <img src="<?php echo plugins_url( 'upgrade.png' , __FILE__ ) ?>">
 </a>
 <br>
@@ -400,7 +400,7 @@ function ulp_render_form() {
 							
 						</select>
 						<span style="color:#666666;margin-left:2px;">Aweber, MailChimp, Constant Contact, GetResponse, and other email list management software are supported in Ultimate Landing Page Advanced</span></br>
-						<span style="color:#666666;margin-left:2px;"><a href="http://www.thinklandingpages.com">Upgrade Now</a></span>
+						<span style="color:#666666;margin-left:2px;"><a href="www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/">Upgrade Now</a></span>
 					</td>
 				</tr>
 
