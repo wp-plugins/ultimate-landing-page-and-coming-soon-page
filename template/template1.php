@@ -55,7 +55,7 @@ z-index:-1
  	color:<?php echo $ulp_options['description_font_color'] ?>;
  	
  }
- <?php if($ulp_options['show_info_background_color']){ ?>
+ <?php if(isset($ulp_options['show_info_background_color']) && $ulp_options['show_info_background_color']){ ?>
  #content_area {
     background: none repeat scroll 0 0 padding-box rgba(0, 0, 0, 0.8);
     border-radius: 4px 4px 4px 4px;

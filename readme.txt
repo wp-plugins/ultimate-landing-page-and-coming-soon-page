@@ -4,7 +4,7 @@ Donate link: http://www.thinklandingpages.com
 Tags: landing page, coming soon page, maintenance page, email list, squeeze page, list building, video landing page, contest landing page, email optin landing page, landing page design, landing page templates, free landing page templates
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.1.2
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -78,4 +78,7 @@ Yes, this is a plugin and will work with your existing theme.
 
 = 1.1.3 =
 * Removed unnecessary script tags from template1
+
+= 1.1.4 =
+* check check to see if info background is set before calling it in template
 
