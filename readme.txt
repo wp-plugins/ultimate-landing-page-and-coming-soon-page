@@ -82,3 +82,6 @@ Yes, this is a plugin and will work with your existing theme.
 = 1.1.4 =
 * check check to see if info background is set before calling it in template
 
+= 1.1.5 =
+* Added font Libre Baskerville
+
