@@ -85,3 +85,6 @@ Yes, this is a plugin and will work with your existing theme.
 = 1.1.5 =
 * Added font Libre Baskerville
 
+= 1.1.6 =
+* Added font ABeeZee
+
