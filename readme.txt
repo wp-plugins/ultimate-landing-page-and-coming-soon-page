@@ -88,3 +88,6 @@ Yes, this is a plugin and will work with your existing theme.
 = 1.1.6 =
 * Added font ABeeZee
 
+= 1.1.7 =
+* Added font Gabriela
+
