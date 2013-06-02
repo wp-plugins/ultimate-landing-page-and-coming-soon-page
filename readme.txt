@@ -100,3 +100,6 @@ Yes, this is a plugin and will work with your existing theme.
 = 1.1.10 =
 * Added font Wellfleet
 
+= 1.1.11 =
+* Added font Alef
+
