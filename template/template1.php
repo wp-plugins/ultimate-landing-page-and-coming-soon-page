@@ -43,14 +43,14 @@ img#bg {
 z-index:-1
 } 
  #headline{
- 	font-family: '<?php echo $ulp_options['headline_font'] ?>', cursive;
+ 	font-family: '<?php echo $ulp_options['headline_font'] ?>';
  	font-size:28px;
  	color:<?php echo $ulp_options['headline_font_color'] ?>;
  	
  }
  
  #description{
- 	font-family: '<?php echo $ulp_options['description_font'] ?>', cursive;
+ 	font-family: '<?php echo $ulp_options['description_font'] ?>';
  	font-size:12 px;
  	color:<?php echo $ulp_options['description_font_color'] ?>;
  	
