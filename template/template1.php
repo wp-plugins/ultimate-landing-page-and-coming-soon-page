@@ -11,6 +11,7 @@ $ulp_options = get_option('ulp_options');
 <html>
 <head>
 <title><?php echo stripslashes($ulp_options['title']) ?></title>
+<!-- Version: 1.1.13 -->
 <!-- <link rel="stylesheet" href="<?php echo plugins_url('template/style.css',dirname(__FILE__)); ?>"> -->
 <link href='http://fonts.googleapis.com/css?family=<?php echo str_replace(" ", "+", $ulp_options['headline_font'])."|".str_replace(" ", "+", $ulp_options['description_font']) ?>' rel='stylesheet' type='text/css'>
 
@@ -87,7 +88,7 @@ z-index:-1
 <body>
 
 
-<table align="center" valign="center" height="100%">
+<table align="center" valign="center">
 	<!-- <table height="400" width="600" align="center" valign="center" <?php if($ulp_options['info_background_color']){ ?>style="background-color:<?php echo $ulp_options['info_background_color']; ?>" <?php } ?>> -->
 		<table height="400" width="600" align="center" valign="center" id="content_area">
 		<tr>

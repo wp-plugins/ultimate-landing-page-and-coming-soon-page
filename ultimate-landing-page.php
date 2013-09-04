@@ -3,12 +3,12 @@
 Plugin Name: Ultimate Landing Page and Coming Soon Page
 Plugin URI: http://www.thinklandingpages.com
 Description: Create a landing page, coming soon page, or maintenance page and collect emails.
-Version: 1.1.12
+Version: 1.1.13
 Author: Jeff Bullins
 Author URI: http://www.thinklandingpages.com
 */
 
-/*  Copyright 2012 Jeff Bullins (email : support@thinklandingpages.com)
+/*  Copyright 2012, 2013 Jeff Bullins (email : support@thinklandingpages.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
