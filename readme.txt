@@ -106,6 +106,6 @@ Yes, this is a plugin and will work with your existing theme.
 = 1.1.12 =
 * Removed cursive from css
 
-= 1.1.13
+= 1.1.13 =
 * Removed height="100%" on first table tag for IE fix.
 
