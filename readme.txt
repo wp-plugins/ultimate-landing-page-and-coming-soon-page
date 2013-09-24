@@ -32,8 +32,9 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 
 *  Collect emails with Aweber, Mailchimp, and other email list management software
 *  Multiple templates to choose from to give you more layout options
-*  More color options for the fonts to so you can customize the text even more
+*  More color options for the fonts so you can customize the text even more
 *  A maintenance mode so you can notify your users while you service your site
+*  Shortcode to place your custom email form anywhere on the page
 *  And more...
 
 *  [Upgrade to the Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
