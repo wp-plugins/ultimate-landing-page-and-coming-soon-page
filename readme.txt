@@ -57,6 +57,10 @@ No.  The plugin uses a simple to edit form to collect your information and creat
 
 Yes, this is a plugin and will work with your existing theme.
 
+= Can I see what all the fonts look like that are used in the plugin? =
+
+[See the fonts here](http://www.thinklandingpages.com/googleFonts/viewLandingPageFonts.php?utm_source=wordpress.org&utm_medium=faq+link&utm_campaign=landing+page+google+fonts)
+
 == Screenshots ==
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
