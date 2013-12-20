@@ -14,7 +14,7 @@ Create a landing page or coming soon page and collect emails.
 
 Create a landing page or coming soon page in as little as 5 minutes without any programming or design skills.
 
-*  [Upgrade to the Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
+*  [Free Upgrade to the Advanced Lite Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
 
 ###What you get when you use the Ultimate Landing Page plugin
 
@@ -37,7 +37,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Shortcode to place your custom email form anywhere on the page
 *  And more...
 
-*  [Upgrade to the Advanced Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
+*  [Free Upgrade to the Advanced Lite Version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=wordpress%2Blanding%2Bpage%2Brepository&utm_medium=link&utm_campaign=free%2Badvanced%2Bversion)
 
 == Installation ==
 
