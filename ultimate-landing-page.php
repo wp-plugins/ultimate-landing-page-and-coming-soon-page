@@ -400,7 +400,7 @@ function ulp_render_form() {
 							
 						</select>
 						<span style="color:#666666;margin-left:2px;">Aweber, MailChimp, Constant Contact, GetResponse, and other email list management software are supported in Ultimate Landing Page Advanced</span></br>
-						<span style="color:#666666;margin-left:2px;"><a href="http://www.thinklandingpages.com/">Upgrade Now to the Advanced Version</a></span>
+						<span style="color:#666666;margin-left:2px;"><a href="http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/">Upgrade Now to the Advanced Lite Version</a></span>
 					</td>
 				</tr>
 
