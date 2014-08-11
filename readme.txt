@@ -65,6 +65,7 @@ Yes, this is a plugin and will work with your existing theme.
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
 2.
+3.
 
 == Changelog ==
 
