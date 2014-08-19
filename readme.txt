@@ -35,6 +35,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  More color options for the fonts so you can customize the text even more
 *  A maintenance mode so you can notify your users while you service your site
 *  Shortcode to place your custom email form anywhere on the page
+*  Custom Analytics box to place you analytics code on your page
 *  And more...
 
 *  [Upgrade to the Advanced or Pro Version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
