@@ -31,6 +31,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 ###Additional Features Ultimate Landing Page Advanced contains
 
 *  Collect emails with Aweber, Mailchimp, and other email list management software
+*  Create entire sales funnels
 *  Multiple templates to choose from to give you more layout options
 *  More color options for the fonts so you can customize the text even more
 *  A maintenance mode so you can notify your users while you service your site
