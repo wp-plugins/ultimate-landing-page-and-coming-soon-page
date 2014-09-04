@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: landing page, coming soon page, maintenance page, email list, squeeze page, list building, video landing page, contest landing page, email optin landing page, landing page design, landing page templates, free landing page templates, music landing page, real estate landing page, affiliate landing page, conversion landing page, easy landing page, financial landing page, book landing page, ebook landing page, product landing page, launch page
 Requires at least: 3.0
-Tested up to: 3.8.1
+Tested up to: 3.9.2
 Stable tag: 1.1.29
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,7 +14,7 @@ Create a landing page or coming soon page and collect emails.
 
 Create a landing page or coming soon page in as little as 5 minutes without any programming or design skills.
 
-*  [Upgrade to the Advanced or Pro Version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
+*  [Free Upgrade to the Advanced Lite version or get a full version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
 
 ###What you get when you use the Ultimate Landing Page plugin
 
@@ -40,7 +40,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Custom code box to add javascript and css
 *  And more...
 
-*  [Upgrade to the Advanced or Pro Version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
+*  [Free Upgrade to the Advanced Lite version or get a full version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
 == Installation ==
 
