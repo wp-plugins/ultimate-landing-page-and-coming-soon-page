@@ -66,6 +66,9 @@ Yes, this is a plugin and will work with your existing theme.
 
 [See the fonts here](http://www.thinklandingpages.com/googleFonts/viewLandingPageFonts.php?utm_source=wordpress.org&utm_medium=faq+link&utm_campaign=landing+page+google+fonts)
 
+= Does the Pro Version allow me to turn off the default form? =
+ Yes, you can turn off the default form in the Pro Version.
+
 == Screenshots ==
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
