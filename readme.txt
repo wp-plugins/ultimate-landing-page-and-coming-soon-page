@@ -42,6 +42,10 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Create video landing pages
 *  And more...
 
+###Created for Marketers and Designers
+
+I created this plugin with marketers and designers in mind.  It is easy to use whether you are building your own list or helping your clients build their list.  I use this plugin for all of my landing pages and coming soon pages.  I guarantee it will work for you.
+
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
 == Installation ==
