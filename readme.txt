@@ -72,6 +72,9 @@ Yes, this is a plugin and will work with your existing theme.
 
 = Does the Pro Version allow me to turn off the default form? =
  Yes, you can turn off the default form in the Pro Version.
+ 
+= Does the Advanced version allow me to use Aweber, Mailchimp, or Custom forms? =
+Yes, you can add any form you like.  In addition you can use Aweber and Mailchimp with the default form.
 
 == Screenshots ==
 
