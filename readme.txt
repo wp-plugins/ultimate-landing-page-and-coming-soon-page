@@ -20,6 +20,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 
 
 *  Create a landing page with a customizable permalink to build your email list
+*  Create a landing page or coming soon page in 5 minutes
 *  Launch a one page coming soon site and collect emails to notify those interested when your site or product is ready
 *  Add your logo for branding you
 *  Choose a background color or add a background image to make the page uniquely yours
