@@ -77,6 +77,9 @@ Yes, this is a plugin and will work with your existing theme.
 = Does the Advanced version allow me to use Aweber, Mailchimp, or Custom forms? =
 Yes, you can add any form you like.  In addition you can use Aweber and Mailchimp with the default form.
 
+= How many coming soon pages and landing pages can I make with the plugin? =
+You can make one coming soon page and one landing page with the free plugin you download from the Wordpress repository.  You can make unlimited coming soon pages and landing pages with the Ultimate Landing Page Advanced Upgrade.
+
 == Screenshots ==
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
