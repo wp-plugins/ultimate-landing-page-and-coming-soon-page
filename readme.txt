@@ -80,6 +80,9 @@ Yes, you can add any form you like.  In addition you can use Aweber and Mailchim
 = How many coming soon pages and landing pages can I make with the plugin? =
 You can make one coming soon page and one landing page with the free plugin you download from the Wordpress repository.  You can make unlimited coming soon pages and landing pages with the Ultimate Landing Page Advanced Upgrade.
 
+= Can I put custom css on my landing pages and coming soon pages? =
+The Advanced version of the plugin has a box for placing custom css on your landing pages and coming soon pages.
+
 == Screenshots ==
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
