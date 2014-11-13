@@ -22,9 +22,11 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Create a landing page with a customizable permalink to build your email list
 *  Create a landing page or coming soon page in 5 minutes
 *  Launch a one page coming soon site and collect emails to notify those interested when your site or product is ready
-*  Add your logo for branding you
-*  Choose a background color or add a background image to make the page uniquely yours
-*  Customize the headline and description and choose a font
+*  Add your logo to your landing page for branding
+*  Choose a background color or add a background image to make the landing page uniquely yours
+*  Customize the headline for your landing page or coming soon page
+*  Add a custom description to your landing page or coming soon page
+*  Choose a font to fit your image 
 *  Uses Google Fonts to give you a large selection to choose from
 *  Collect emails in Feedburner so you can stay in contact with your prospects
 
@@ -45,7 +47,9 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 
 ###Created for Marketers and Designers
 
-I created this plugin with marketers and designers in mind.  It is easy to use whether you are building your own list or helping your clients build their list.  I use this plugin for all of my landing pages and coming soon pages.  I guarantee it will work for you.
+I created this plugin with marketers and designers in mind.  It is easy to use whether you are building your own list or helping your clients build their list.  This plugin will help you create landing pages and coming soon pages that will work for you.  I use this plugin for all of my landing pages and coming soon pages.  I guarantee it will work for you.
+
+Don't try to use post or other pages as a substitute for landing pages.  Landing pages are designed specifically to get a response from your visitors.
 
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
