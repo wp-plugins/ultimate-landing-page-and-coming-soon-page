@@ -49,7 +49,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 
 I created this plugin with marketers and designers in mind.  It is easy to use whether you are building your own list or helping your clients build their list.  This plugin will help you create landing pages and coming soon pages that will work for you.  I use this plugin for all of my landing pages and coming soon pages.  I guarantee it will work for you.
 
-Don't try to use post or other pages as a substitute for landing pages.  Landing pages are designed specifically to get a response from your visitors.
+Don't try to use post or other pages as a substitute for landing pages or coming soon page.  Landing pages and coming soon pages are designed specifically to get a response from your visitors.
 
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
@@ -100,19 +100,19 @@ The Advanced version of the plugin has a box for placing custom css on your land
 
 = 1.1 =
 * Fixed Setting link to not return a 404 page
-* Added default values for boxes
+* Added default values for boxes on landing page and coming soon page
 
 = 1.1.1 =
 * Fixed links to plugin site
 
 = 1.1.2 =
-* Fixed regular expression for preg_match on url
+* Fixed regular expression for preg_match on url on landing page and coming soon page
 
 = 1.1.3 =
-* Removed unnecessary script tags from template1
+* Removed unnecessary script tags from template1 on landing page and coming soon page
 
 = 1.1.4 =
-* check check to see if info background is set before calling it in template
+* check check to see if info background is set before calling it in template on landing page and coming soon page
 
 = 1.1.5 =
 * Added font Libre Baskerville
@@ -139,7 +139,7 @@ The Advanced version of the plugin has a box for placing custom css on your land
 * Removed cursive from css
 
 = 1.1.13 =
-* Removed height="100%" on first table tag for IE fix.
+* Removed height="100%" on first table tag for IE fix on landing page and coming soon page.
 
 = 1.1.14 =
 * Added font Bigelow Rules
@@ -178,7 +178,7 @@ The Advanced version of the plugin has a box for placing custom css on your land
 * Added font Roboto
 
 = 1.1.29 =
-* Fixed wp_editor html (visual) editor not displaying for description
+* Fixed wp_editor html (visual) editor not displaying for description on landing page and coming soon page
 
 = 1.1.30 =
 * Added font Rajdhani
