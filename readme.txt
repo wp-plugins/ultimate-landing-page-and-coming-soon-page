@@ -14,16 +14,19 @@ Create a landing page or coming soon page and collect emails.
 
 Create a landing page or coming soon page in as little as 5 minutes without any programming or design skills.
 
-*  [Free Upgrade to the Advanced Lite version or get a full version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
+*  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
 
 ###What you get when you use the Ultimate Landing Page plugin
 
 
 *  Create a landing page with a customizable permalink to build your email list
+*  Create a landing page or coming soon page in 5 minutes
 *  Launch a one page coming soon site and collect emails to notify those interested when your site or product is ready
-*  Add your logo for branding you
-*  Choose a background color or add a background image to make the page uniquely yours
-*  Customize the headline and description and choose a font
+*  Add your logo to your landing page for branding
+*  Choose a background color or add a background image to make the landing page uniquely yours
+*  Customize the headline for your landing page or coming soon page
+*  Add a custom description to your landing page or coming soon page
+*  Choose a font to fit your image 
 *  Uses Google Fonts to give you a large selection to choose from
 *  Collect emails in Feedburner so you can stay in contact with your prospects
 
@@ -31,13 +34,24 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 ###Additional Features Ultimate Landing Page Advanced contains
 
 *  Collect emails with Aweber, Mailchimp, and other email list management software
+*  Create entire sales funnels
 *  Multiple templates to choose from to give you more layout options
 *  More color options for the fonts so you can customize the text even more
 *  A maintenance mode so you can notify your users while you service your site
 *  Shortcode to place your custom email form anywhere on the page
+*  Custom Analytics box to place you analytics code on your page
+*  Custom code box to add javascript and css
+*  Gateway Page to show your offer to every visitor
+*  Create video landing pages
 *  And more...
 
-*  [Free Upgrade to the Advanced Lite version or get a full version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-features/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
+###Created for Marketers and Designers
+
+I created this plugin with marketers and designers in mind.  It is easy to use whether you are building your own list or helping your clients build their list.  This plugin will help you create landing pages and coming soon pages that will work for you.  I use this plugin for all of my landing pages and coming soon pages.  I guarantee it will work for you.
+
+Don't try to use post or other pages as a substitute for landing pages or coming soon page.  Landing pages and coming soon pages are designed specifically to get a response from your visitors.
+
+*  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
 == Installation ==
 
@@ -61,10 +75,23 @@ Yes, this is a plugin and will work with your existing theme.
 
 [See the fonts here](http://www.thinklandingpages.com/googleFonts/viewLandingPageFonts.php?utm_source=wordpress.org&utm_medium=faq+link&utm_campaign=landing+page+google+fonts)
 
+= Does the Pro Version allow me to turn off the default form? =
+ Yes, you can turn off the default form in the Pro Version.
+ 
+= Does the Advanced version allow me to use Aweber, Mailchimp, or Custom forms? =
+Yes, you can add any form you like.  In addition you can use Aweber and Mailchimp with the default form.
+
+= How many coming soon pages and landing pages can I make with the plugin? =
+You can make one coming soon page and one landing page with the free plugin you download from the Wordpress repository.  You can make unlimited coming soon pages and landing pages with the Ultimate Landing Page Advanced Upgrade.
+
+= Can I put custom css on my landing pages and coming soon pages? =
+The Advanced version of the plugin has a box for placing custom css on your landing pages and coming soon pages.
+
 == Screenshots ==
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
-
+2.
+3.
 
 == Changelog ==
 
@@ -73,19 +100,19 @@ Yes, this is a plugin and will work with your existing theme.
 
 = 1.1 =
 * Fixed Setting link to not return a 404 page
-* Added default values for boxes
+* Added default values for boxes on landing page and coming soon page
 
 = 1.1.1 =
 * Fixed links to plugin site
 
 = 1.1.2 =
-* Fixed regular expression for preg_match on url
+* Fixed regular expression for preg_match on url on landing page and coming soon page
 
 = 1.1.3 =
-* Removed unnecessary script tags from template1
+* Removed unnecessary script tags from template1 on landing page and coming soon page
 
 = 1.1.4 =
-* check check to see if info background is set before calling it in template
+* check check to see if info background is set before calling it in template on landing page and coming soon page
 
 = 1.1.5 =
 * Added font Libre Baskerville
@@ -112,7 +139,7 @@ Yes, this is a plugin and will work with your existing theme.
 * Removed cursive from css
 
 = 1.1.13 =
-* Removed height="100%" on first table tag for IE fix.
+* Removed height="100%" on first table tag for IE fix on landing page and coming soon page.
 
 = 1.1.14 =
 * Added font Bigelow Rules
@@ -144,9 +171,6 @@ Yes, this is a plugin and will work with your existing theme.
 = 1.1.23 =
 * Changed stable tag to trunk
 
-= 1.1.26 =
-* Added font Ceviche One
-
 = 1.1.27 =
 * Added font Sniglet
 
@@ -154,6 +178,18 @@ Yes, this is a plugin and will work with your existing theme.
 * Added font Roboto
 
 = 1.1.29 =
-* Fixed wp_editor html (visual) editor not displaying for description
+* Fixed wp_editor html (visual) editor not displaying for description on landing page and coming soon page
+
+= 1.1.30 =
+* Added font Rajdhani
+
+= 1.1.31 =
+* Added font Hind
+
+= 1.1.32 =
+* Added font Kotta One
+
+= 1.1.33 =
+* Added font Monoton
 
 == Upgrade Notice ==
