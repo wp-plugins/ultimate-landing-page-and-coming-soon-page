@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: landing page, coming soon page, maintenance page, email list, squeeze page, list building, video landing page, contest landing page, email optin landing page, landing page design, landing page templates, free landing page templates, music landing page, real estate landing page, affiliate landing page, conversion landing page, easy landing page, financial landing page, book landing page, ebook landing page, product landing page, launch page
 Requires at least: 3.0
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 1.1.33
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Collect emails in Feedburner so you can stay in contact with your prospects
 
 
-###Additional Features Ultimate Landing Page Advanced contains
+###Additional Features Ultimate Landing Page and Coming Soon Advanced contains
 
 *  Collect emails with Aweber, Mailchimp, and other email list management software
 *  Create entire sales funnels
@@ -39,10 +39,10 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  More color options for the fonts so you can customize the text even more
 *  A maintenance mode so you can notify your users while you service your site
 *  Shortcode to place your custom email form anywhere on the page
-*  Custom Analytics box to place you analytics code on your page
+*  Custom Analytics box to place you analytics code on your landing pages and coming soon pages
 *  Custom code box to add javascript and css
 *  Gateway Page to show your offer to every visitor
-*  Create video landing pages
+*  Create video landing pages and coming soon pages
 *  And more...
 
 ###Created for Marketers and Designers
