@@ -51,6 +51,14 @@ I created this plugin with marketers and designers in mind.  It is easy to use w
 
 Don't try to use post or other pages as a substitute for landing pages or coming soon page.  Landing pages and coming soon pages are designed specifically to get a response from your visitors.
 
+###Coming Soon Pages
+
+Coming soon pages are best used for collecting emails while you are getting ready to showcase your new business.  You should have a narrowly focused message on your coming soon page.  You want to speak directly to your audience.  Sometimes there can be a tendency to try and keep the message broad on a coming soon page.  This is a mistake.
+
+If you try to serve to many people with the message on your coming soon page, you will end up serving know one.
+
+You also want to make sure you include a sign-up form on your coming soon page.  This is extremely important.  You will spend a lot of time driving traffic to your coming soon page, but the reality is, many visitors will leave and never come back.  This is not because they are all not intereste.  Rather, they will not return because they will forget about you.  Your coming soon page is the prefect place to capture their email address and keep the conversation going.  You will be able to remind them of your business periodiacally so that you stay fresh in their mind.
+
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
 == Installation ==
