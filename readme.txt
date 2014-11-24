@@ -16,31 +16,32 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
 
-###What you get when you use the Ultimate Landing Page plugin
+###What you get when you use the Ultimate Landing Page and Coming Soon Page plugin
 
 
 *  Create a landing page with a customizable permalink to build your email list
 *  Create a landing page or coming soon page in 5 minutes
 *  Launch a one page coming soon site and collect emails to notify those interested when your site or product is ready
-*  Add your logo to your landing page for branding
-*  Choose a background color or add a background image to make the landing page uniquely yours
+*  Add your logo to your landing page or coming soon page for branding
+*  Choose a background color or add a background image to make the landing page or coming soon page uniquely yours
 *  Customize the headline for your landing page or coming soon page
 *  Add a custom description to your landing page or coming soon page
 *  Choose a font to fit your image 
 *  Uses Google Fonts to give you a large selection to choose from
 *  Collect emails in Feedburner so you can stay in contact with your prospects
+*  Add your social icons to your landing page and coming soon page
 
 
 ###Additional Features Ultimate Landing Page and Coming Soon Advanced contains
 
 *  Collect emails with Aweber, Mailchimp, and other email list management software
 *  Create entire sales funnels
-*  Multiple templates to choose from to give you more layout options
+*  Multiple templates to choose from to give you more layout options for your landing pages and coming soon pages
 *  More color options for the fonts so you can customize the text even more
 *  A maintenance mode so you can notify your users while you service your site
-*  Shortcode to place your custom email form anywhere on the page
+*  Shortcode to place your custom email form anywhere on your landing pages or coming soon page
 *  Custom Analytics box to place you analytics code on your landing pages and coming soon pages
-*  Custom code box to add javascript and css
+*  Custom code box to add javascript and css to your landing pages and coming soon page
 *  Gateway Page to show your offer to every visitor
 *  Create video landing pages and coming soon pages
 *  And more...
