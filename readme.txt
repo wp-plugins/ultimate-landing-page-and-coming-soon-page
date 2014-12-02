@@ -124,81 +124,81 @@ The Advanced version of the plugin has a box for placing custom css on your land
 * check check to see if info background is set before calling it in template on landing page and coming soon page
 
 = 1.1.5 =
-* Added font Libre Baskerville
+* Added font Libre Baskerville to landing page and coming soon page
 
 = 1.1.6 =
-* Added font ABeeZee
+* Added font ABeeZee to landing page and coming soon page
 
 = 1.1.7 =
-* Added font Gabriela
+* Added font Gabriela to landing page and coming soon page
 
 = 1.1.8 =
-* Added font Tauri
+* Added font Tauri to landing page and coming soon page
 
 = 1.1.9 =
-* Added font Sintony
+* Added font Sintony to landing page and coming soon page
 
 = 1.1.10 =
-* Added font Wellfleet
+* Added font Wellfleet to landing page and coming soon page
 
 = 1.1.11 =
 * Added font Alef
 
 = 1.1.12 =
-* Removed cursive from css
+* Removed cursive from css 
 
 = 1.1.13 =
 * Removed height="100%" on first table tag for IE fix on landing page and coming soon page.
 
 = 1.1.14 =
-* Added font Bigelow Rules
+* Added font Bigelow Rules to landing page and coming soon page
 
 = 1.1.15 =
-* Added font Kite One
+* Added font Kite One to landing page and coming soon page
 
 = 1.1.16 =
-* Added font Prosto One
+* Added font Prosto One to landing page and coming soon page
 
 = 1.1.17 =
-* Added font Diplomata SC
+* Added font Diplomata SC to landing page and coming soon page
 
 = 1.1.18 =
-* Added font Alegreya Sans
+* Added font Alegreya Sans to landing page and coming soon page
 
 = 1.1.19 =
-* Added font Audiowide
+* Added font Audiowide to landing page and coming soon page
 
 = 1.1.20 =
-* Added font Revalia
+* Added font Revalia to landing page and coming soon page
 
 = 1.1.21 =
-* Added font Gafata
+* Added font Gafata to landing page and coming soon page
 
 = 1.1.22 =
-* Added font Montez
+* Added font Montez to landing page and coming soon page
 
 = 1.1.23 =
-* Changed stable tag to trunk
+* Changed stable tag to trunk 
 
 = 1.1.27 =
-* Added font Sniglet
+* Added font Sniglet to landing page and coming soon page
 
 = 1.1.28 =
-* Added font Roboto
+* Added font Roboto to landing page and coming soon page
 
 = 1.1.29 =
 * Fixed wp_editor html (visual) editor not displaying for description on landing page and coming soon page
 
 = 1.1.30 =
-* Added font Rajdhani
+* Added font Rajdhani to landing page and coming soon page
 
 = 1.1.31 =
-* Added font Hind
+* Added font Hind to landing page and coming soon page
 
 = 1.1.32 =
-* Added font Kotta One
+* Added font Kotta One to landing page and coming soon page
 
 = 1.1.33 =
-* Added font Monoton
+* Added font Monoton to landing page and coming soon page
 
 == Upgrade Notice ==
