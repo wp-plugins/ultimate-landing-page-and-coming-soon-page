@@ -44,6 +44,7 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Custom code box to add javascript and css to your landing pages and coming soon page
 *  Gateway Page to show your offer to every visitor
 *  Create video landing pages and coming soon pages
+*  Place slideshows on landing pages and coming soon pages using third party plugins
 *  And more...
 
 ###Created for Marketers and Designers
