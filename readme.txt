@@ -4,7 +4,7 @@ Donate link: http://www.thinklandingpages.com
 Tags: landing page, coming soon page, maintenance page, email list, squeeze page, list building, video landing page, contest landing page, email optin landing page, landing page design, landing page templates, free landing page templates, music landing page, real estate landing page, affiliate landing page, conversion landing page, easy landing page, financial landing page, book landing page, ebook landing page, product landing page, launch page
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.1.33
+Stable tag: 1.1.34
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,9 +57,13 @@ Don't try to use post or other pages as a substitute for landing pages or coming
 
 Coming soon pages are best used for collecting emails while you are getting ready to showcase your new business.  You should have a narrowly focused message on your coming soon page.  You want to speak directly to your audience.  Sometimes there can be a tendency to try and keep the message broad on a coming soon page.  This is a mistake.
 
-If you try to serve to many people with the message on your coming soon page, you will end up serving know one.
+When you drive the right traffic to your coming soon page and have the right message, you will get higher conversions.  
 
-You also want to make sure you include a sign-up form on your coming soon page.  This is extremely important.  You will spend a lot of time driving traffic to your coming soon page, but the reality is, many visitors will leave and never come back.  This is not because they are all not intereste.  Rather, they will not return because they will forget about you.  Your coming soon page is the prefect place to capture their email address and keep the conversation going.  You will be able to remind them of your business periodiacally so that you stay fresh in their mind.
+If you try to serve to many people with the message on your coming soon page, you will end up serving no one.
+
+You also want to make sure you include a sign-up form on your coming soon page.  This is extremely important.  You will spend a lot of time driving traffic to your coming soon page, but the reality is, many visitors will leave and never come back.  This is not because they are all not interested.  Rather, they will not return because they will forget about you.  Your coming soon page is the prefect place to capture their email address and keep the conversation going.  You will be able to remind them of your business periodiacally so that you stay fresh in their mind.
+
+Coming soon pages can also be used to quickly validate an idea.  For instance, you believe that a book idea you have will sell well.  Instead of writing the book, creating a full website, and marketing the book; you can start with a coming soon page and see what kind of responses you get.
 
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
@@ -201,5 +205,8 @@ The Advanced version of the plugin has a box for placing custom css on your land
 
 = 1.1.33 =
 * Added font Monoton to landing page and coming soon page
+
+= 1.1.34 =
+* Added font Margarine to landing page and coming soon page
 
 == Upgrade Notice ==
