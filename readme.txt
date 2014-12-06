@@ -65,6 +65,7 @@ You also want to make sure you include a sign-up form on your coming soon page. 
 
 Coming soon pages can also be used to quickly validate an idea.  For instance, you believe that a book idea you have will sell well.  Instead of writing the book, creating a full website, and marketing the book; you can start with a coming soon page and see what kind of responses you get.
 
+
 *  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
 
 == Installation ==
@@ -100,6 +101,9 @@ You can make one coming soon page and one landing page with the free plugin you 
 
 = Can I put custom css on my landing pages and coming soon pages? =
 The Advanced version of the plugin has a box for placing custom css on your landing pages and coming soon pages.
+
+= What is the difference between a coming soon page and a landing page? =
+A landing page is page you create to send targeted traffic.  A coming soon page is a landing page with a the specific purpose of announcing your product/website is coming soon.
 
 == Screenshots ==
 
