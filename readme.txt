@@ -45,6 +45,8 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Gateway Page to show your offer to every visitor
 *  Create video landing pages and coming soon pages
 *  Place slideshows on landing pages and coming soon pages using third party plugins
+*  Add menus to your landing pages and coming soon pages
+*  Create a custom slug for your landing pages and coming soon pages
 *  And more...
 
 ###Created for Marketers and Designers
