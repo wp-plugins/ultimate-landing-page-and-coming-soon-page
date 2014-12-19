@@ -47,6 +47,8 @@ Create a landing page or coming soon page in as little as 5 minutes without any 
 *  Place slideshows on landing pages and coming soon pages using third party plugins
 *  Add menus to your landing pages and coming soon pages
 *  Create a custom slug for your landing pages and coming soon pages
+*  Control wp_head and wp_footer on your landing pages and coming soon pages
+*  Do you have your own html designs? Place your own code as a landing page or coming soon page
 *  And more...
 
 ###Created for Marketers and Designers
