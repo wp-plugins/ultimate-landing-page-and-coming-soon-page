@@ -14,7 +14,7 @@ Create a landing page or coming soon page and collect emails.
 
 Create a landing page or coming soon page in as little as 5 minutes without any programming or design skills.
 
-*  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
+*  [Upgrade to the Advanced version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-pricing-with-pro-version-2/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
 
 ###What you get when you use the Ultimate Landing Page and Coming Soon Page plugin
 
@@ -70,7 +70,7 @@ You also want to make sure you include a sign-up form on your coming soon page. 
 Coming soon pages can also be used to quickly validate an idea.  For instance, you believe that a book idea you have will sell well.  Instead of writing the book, creating a full website, and marketing the book; you can start with a coming soon page and see what kind of responses you get.
 
 
-*  [Free Upgrade to the Advanced Lite version!](http://www.thinklandingpages.com/landingpage/wordpress-landing-page-plugin-2-2/?utm_source=inside%20landing%20page%20plugin%20repoBottom-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoBottom-to-feature-page)
+*  [Upgrade to the Advanced version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-pricing-with-pro-version-2/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
 
 == Installation ==
 
