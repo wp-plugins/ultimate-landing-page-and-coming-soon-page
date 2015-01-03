@@ -69,6 +69,10 @@ You also want to make sure you include a sign-up form on your coming soon page. 
 
 Coming soon pages can also be used to quickly validate an idea.  For instance, you believe that a book idea you have will sell well.  Instead of writing the book, creating a full website, and marketing the book; you can start with a coming soon page and see what kind of responses you get.
 
+###Video Landing Pages and Coming Soon Pages
+
+You can build video landing pages and coming soon pages with the Ultimate Landing Page and Coming Soon Page plugin.  Putting a Video on a landing page or coming soon page is good for helping get your message accross clearly.  The best way to build a video landing page or coming soon page is to host the video on a video hosting site like youtube.com.  Then embed the video in your landing page or coming soon page.
+
 
 *  [Upgrade to the Advanced version!](http://www.thinklandingpages.com/landingpage/ultimate-landing-page-advanced-pricing-with-pro-version-2/?utm_source=inside%20landing%20page%20plugin%20repoTop-to-feature-page&utm_medium=plugin&utm_campaign=inside%20landing%20page%20plugin%20repoTop-to-feature-page)
 
