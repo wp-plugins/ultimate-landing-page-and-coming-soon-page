@@ -98,6 +98,9 @@ Yes, this is a plugin and will work with your existing theme.
 
 [See the fonts here](http://www.thinklandingpages.com/googleFonts/viewLandingPageFonts.php?utm_source=wordpress.org&utm_medium=faq+link&utm_campaign=landing+page+google+fonts)
 
+= Can I really create a landing page or coming soon page in 5 minutes? =
+Yes, the plugin has been designed to make it easy for you to create coming soon or landing pages quickly.
+
 = Does the Pro Version allow me to turn off the default form? =
  Yes, you can turn off the default form in the Pro Version.
  
