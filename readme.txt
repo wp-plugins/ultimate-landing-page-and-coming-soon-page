@@ -116,6 +116,9 @@ The Advanced version of the plugin has a box for placing custom css on your land
 = What is the difference between a coming soon page and a landing page? =
 A landing page is page you create to send targeted traffic.  A coming soon page is a landing page with a the specific purpose of announcing your product/website is coming soon.
 
+= Can I use shortcodes from other plugins in the coming soon page and landing page plugin? =
+Yes, you can use other shortcodes on the pages created with the coming soon page and landing page plugin.
+
 == Screenshots ==
 
 1. This is a landing page created in a few minutes using the Ultimate Landing Page Plugin
